@@ -35,3 +35,7 @@ RGB驱动：https://github.com/adafruit/Adafruit_NeoPixel
 
 ## 写在最后
 希望能给想做辉光钟的同学提供一些帮助，如果有建议或者疑问，可以给我发邮件(boyangjun@bupt.edu.cn)
+
+注：.sch和.brd用eagle软件打开，.ino用Arduino IDE打开
+希望能给想做辉光钟的同学提供一些帮助，如果有建议或者疑问，可以给我发邮件(boyangjun@bupt.edu.cn)：
+希望能给想做辉光钟的同学提供一些帮助，如果有建议或者疑问，可以给我发邮件(boyangjun@bupt.edu.cn)
